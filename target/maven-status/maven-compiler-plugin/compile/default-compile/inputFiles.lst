@@ -1,0 +1,5 @@
+/Users/bru/Downloads/messaging/src/main/java/com/assignment/messaging/MessagingApplication.java
+/Users/bru/Downloads/messaging/src/main/java/com/assignment/messaging/config/RabbitMqConfiguration.java
+/Users/bru/Downloads/messaging/src/main/java/com/assignment/messaging/config/SwggerConfiguration.java
+/Users/bru/Downloads/messaging/src/main/java/com/assignment/messaging/controller/ProduceController.java
+/Users/bru/Downloads/messaging/src/main/java/com/assignment/messaging/service/MessageProducer.java
